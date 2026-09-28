@@ -39,5 +39,5 @@
   <text x="60" y="214" class="m p0" font-size="18" fill="#9aa4b0">Red Team<tspan class="cur" dx="3">&#9612;</tspan></text>
   <text x="60" y="214" class="m p1" font-size="18" fill="#9aa4b0">Blue Team<tspan class="cur" dx="3">&#9612;</tspan></text>
   <text x="60" y="214" class="m p2" font-size="18" fill="#9aa4b0">Exploring distributed systems at scale<tspan class="cur" dx="3">&#9612;</tspan></text>
-  <text x="60" y="214" class="m p3" font-size="18" fill="#9aa4b0">Always reserching. Always learning.<tspan class="cur" dx="3">&#9612;</tspan></text>
+  <text x="60" y="214" class="m p3" font-size="18" fill="#9aa4b0">Always researching. Always learning.<tspan class="cur" dx="3">&#9612;</tspan></text>
 </svg>
