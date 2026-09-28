@@ -26,7 +26,7 @@
   <rect x="544" y="1.1" width="340" height="1.1" rx="0.55" fill="#ffffff" fill-opacity="0.05"/>
   <text x="554" y="40" class="k" font-size="12" fill="#9aa4b0">FOCUS</text>
   <text x="554" y="78" class="m" font-size="13"><tspan fill="#34d399">&#9656;</tspan><tspan fill="#9aa4b0">  Web Application Security</tspan></text>
-  <text x="554" y="111" class="m" font-size="13"><tspan fill="#34d399">&#9656;</tspan><tspan fill="#9aa4b0">  System Hardering</tspan></text>
+  <text x="554" y="111" class="m" font-size="13"><tspan fill="#34d399">&#9656;</tspan><tspan fill="#9aa4b0">  system hardening</tspan></text>
   <text x="554" y="144" class="m" font-size="13"><tspan fill="#34d399">&#9656;</tspan><tspan fill="#9aa4b0">  Linux · Networking · Vulnerability Research </tspan></text>
   <text x="554" y="177" class="m" font-size="13"><tspan fill="#34d399">&#9656;</tspan><tspan fill="#9aa4b0">  Bug Bounty</tspan></text>
 </svg>
