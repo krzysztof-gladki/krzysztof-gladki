@@ -5,7 +5,7 @@ width="100%">
 </p>
 
 <p align="center">
-  <img src="assets/hunter.svg"
+  <img src="assets/hunte.svg"
 alt="whoami"
 width="100%">
 </p>
