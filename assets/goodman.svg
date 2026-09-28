@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 232" width="900" height="232" fill="none" role="img" aria-label="Krzysztof Gladki - Security Resercher">
+  <defs>
+    <linearGradient id="acc" x1="0" y1="0" x2="1" y2="0"><stop offset="0" stop-color="#34d399"/><stop offset="1" stop-color="#38bdf8"/></linearGradient>
+    <radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#34d399" stop-opacity="0.16"/><stop offset="1" stop-color="#34d399" stop-opacity="0"/></radialGradient>
+    <pattern id="grid" width="26" height="26" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#ffffff" fill-opacity="0.035"/></pattern>
+  </defs>
+  <style>
+    .k{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-weight:600;letter-spacing:.24em}
+    .n{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Ubuntu,Helvetica,Arial,sans-serif;font-weight:800}
+    .d{font-family:'Segoe UI',system-ui,-apple-system,Roboto,Ubuntu,Helvetica,Arial,sans-serif;font-weight:500}
+    .m{font-family:'JetBrains Mono','Fira Code',ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;font-weight:600}
+    .bar{transform-box:fill-box;transform-origin:left center;animation:grow 1s cubic-bezier(.2,.7,.2,1) both}
+    .pulse{animation:pulse 2.4s ease-in-out infinite}
+    .cur{fill:#34d399;animation:blink 1.05s steps(1) infinite}
+    .p0{animation:ph0 13s steps(30) infinite}.p1{animation:ph1 13s steps(34) infinite}
+    .p2{animation:ph2 13s steps(34) infinite}.p3{animation:ph3 13s steps(28) infinite}
+    .l1,.l2,.l3{opacity:0}
+    @keyframes grow{from{transform:scaleX(.001)}to{transform:scaleX(1)}}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.4}}
+    @keyframes blink{0%,49%{opacity:1}50%,100%{opacity:0}}
+    @keyframes ph0{0%{opacity:1;clip-path:inset(0 100% 0 0)}7%{opacity:1;clip-path:inset(0 0 0 0)}25%{opacity:1;clip-path:inset(0 0 0 0)}26%{opacity:0;clip-path:inset(0 100% 0 0)}99.9%{opacity:0;clip-path:inset(0 100% 0 0)}100%{opacity:1;clip-path:inset(0 100% 0 0)}}
+    @keyframes ph1{0%{opacity:0;clip-path:inset(0 100% 0 0)}24.9%{opacity:0;clip-path:inset(0 100% 0 0)}26%{opacity:1;clip-path:inset(0 100% 0 0)}33%{opacity:1;clip-path:inset(0 0 0 0)}50%{opacity:1;clip-path:inset(0 0 0 0)}51%{opacity:0;clip-path:inset(0 100% 0 0)}100%{opacity:0;clip-path:inset(0 100% 0 0)}}
+    @keyframes ph2{0%{opacity:0;clip-path:inset(0 100% 0 0)}49.9%{opacity:0;clip-path:inset(0 100% 0 0)}51%{opacity:1;clip-path:inset(0 100% 0 0)}58%{opacity:1;clip-path:inset(0 0 0 0)}75%{opacity:1;clip-path:inset(0 0 0 0)}76%{opacity:0;clip-path:inset(0 100% 0 0)}100%{opacity:0;clip-path:inset(0 100% 0 0)}}
+    @keyframes ph3{0%{opacity:0;clip-path:inset(0 100% 0 0)}74.9%{opacity:0;clip-path:inset(0 100% 0 0)}76%{opacity:1;clip-path:inset(0 100% 0 0)}83%{opacity:1;clip-path:inset(0 0 0 0)}99%{opacity:1;clip-path:inset(0 0 0 0)}100%{opacity:0;clip-path:inset(0 100% 0 0)}}
+  </style>
+  <rect x="0.6" y="0.6" width="898.8" height="230.8" rx="18" fill="#0f141c" stroke="#242c38" stroke-width="1.25"/>
+  <rect x="16" y="1.1" width="868" height="1.1" rx="0.55" fill="#ffffff" fill-opacity="0.05"/>
+  <circle cx="775" cy="30" r="230" fill="url(#glow)"/>
+  <rect x="1.2" y="1.2" width="897.6" height="229.6" rx="18" fill="url(#grid)"/>
+  <rect x="36" y="40" width="9" height="9" rx="2.5" fill="url(#acc)"/>
+  <text x="56" y="48" class="k" font-size="12" fill="#9aa4b0">SECURITY RESERCHER</text>
+  <rect x="736" y="34" width="128" height="24" rx="12" fill="#141a24" stroke="#242c38" stroke-width="1"/>
+  <circle class="pulse" cx="752" cy="46" r="4" fill="#34d399"/>
+  <text x="764" y="50" class="m" font-size="11.5" fill="#9aa4b0">Wroclaw, Poland</text>
+  <text x="36" y="128" class="n" font-size="60" fill="#e9edf3">Krzysztof Gladki</text>
+  <rect class="bar" x="38" y="146" width="76" height="4" rx="2" fill="url(#acc)"/>
+  <text x="38" y="182" class="d" font-size="17" fill="#9aa4b0"> Penetration Testing <tspan fill="#34d399">·</tspan> Threat Hunting <tspan fill="#34d399">·</tspan> Hardering systems </text>
+  <text x="38" y="214" class="m" font-size="18" fill="#34d399">&#8250;</text>
+  <text x="60" y="214" class="m p0" font-size="18" fill="#9aa4b0">Red Team<tspan class="cur" dx="3">&#9612;</tspan></text>
+  <text x="60" y="214" class="m p1" font-size="18" fill="#9aa4b0">Blue Team<tspan class="cur" dx="3">&#9612;</tspan></text>
+  <text x="60" y="214" class="m p2" font-size="18" fill="#9aa4b0">Exploring distributed systems at scale<tspan class="cur" dx="3">&#9612;</tspan></text>
+  <text x="60" y="214" class="m p3" font-size="18" fill="#9aa4b0">Always reserching. Always learning.<tspan class="cur" dx="3">&#9612;</tspan></text>
+</svg>
